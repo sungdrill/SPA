@@ -27,7 +27,7 @@ angular
           "contents": {
             templateUrl: "views/main.html",
             // 컨트롤러 설정
-            controller : 'MainController'
+            controller : 'MainCtrl'
           }
         }
       });
